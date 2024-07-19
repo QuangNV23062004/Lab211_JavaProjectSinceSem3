@@ -1,0 +1,2 @@
+updateproduct in both product and productinorder bị sai x2 quantity của các sản phẩm 
+k xử lí được quantity entered twice , +  ordercode k thay đổi lên sau khi load từ file 

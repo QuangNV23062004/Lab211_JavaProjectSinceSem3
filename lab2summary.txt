@@ -1,0 +1,40 @@
+Based on the specifications provided, here’s a summary of what you need to do:
+
+Classes to Create:
+
+1.Flight: This class should include attributes such as 
++flight number
++departure city
++destination city
++departure time
++arrival time
++available seats.
+2.Passenger: This class should include attributes such as 
++name
++contact details
++reservation ID.
+3.Crew: This class should include attributes related to crew members
++roles (pilots, flight attendants, ground staff)
++their assignments.
+4.Administrator: This class should include attributes and methods that allow administrators to manage flight schedules, crew assignments, and system settings.
+
+ArrayLists to Create:
+
+1.flightsList: This list should store all the flight objects.
+2.passengersList: This list should store all the passenger objects.
+3.crewList: This list should store all the crew objects.
+4.adminsList: This list should store all the administrator objects.
+
+Functions to Implement:
+
+Flight schedule management
+Passenger reservation and booking
+Passenger check-in and seat allocation
+Crew management and assignments
+Administrator access for system management
+Data storage for flight details, reservations, and assignments
+Print all lists from file
+Create a layout
+Design Patterns:
+
+You can earn bonus points if you apply one of the Design Patterns (such as DAO pattern, Factory pattern, Repository pattern, and so on) in this project.
